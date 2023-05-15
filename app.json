@@ -1,0 +1,25 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "vimMode": true,
+  "strictLineBreaks": true,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "showLineNumber": true,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "promptDelete": false,
+  "showFrontmatter": true,
+  "showInlineTitle": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
+}

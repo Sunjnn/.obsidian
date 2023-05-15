@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "monospaceFontFamily": "DejaVu Sans Mono,Fira Code",
+  "textFontFamily": "Calibri,Verdana,宋体",
+  "baseFontSize": 17,
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": false,
+  "cssTheme": "Things"
+}
