@@ -1,8 +1,8 @@
 {
   "theme": "moonstone",
   "monospaceFontFamily": "DejaVu Sans Mono,Fira Code",
-  "textFontFamily": "Calibri,Verdana,宋体",
-  "baseFontSize": 17,
+  "textFontFamily": "Fira Code,Calibri,宋体",
+  "baseFontSize": 15,
   "accentColor": "",
   "showViewHeader": true,
   "nativeMenus": false,
